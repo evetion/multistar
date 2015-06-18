@@ -1,0 +1,5 @@
+# multistar extension
+comment = 'Multistar prototype to store TINs'
+default_version = '0.1'
+module_pathname = '$libdir/multistar'
+relocatable = true
